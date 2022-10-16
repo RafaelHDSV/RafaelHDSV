@@ -1,4 +1,4 @@
-### Olá, eu sou Rafael Vieira 👋
+### Olá, eu sou Rafael Vieira 👋🏼
 
 <div>
   <a href="https://github.com/RafaelHDSV">
