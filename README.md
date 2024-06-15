@@ -16,9 +16,4 @@
      <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
   </div>
 </div>
-  
-  ##
-  
-  ![snake gif](https://github.com/RafaelHDSV/RafaelHDSV/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
