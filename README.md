@@ -16,7 +16,7 @@
 
 -    🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 -    🎓 Estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na <i>Athon Ensino Superior</i>.
--    💼 Procurando oportunidades de trabalho na área da tecnologia.
+-    💼 Trabalhando na AGX Software, como Desenvolvedor Web Front-end.
 -    🌱 Aprendendo mais sobre <strong>React Js</strong>.
 
 ## ⚙️ GitHub Analytics
