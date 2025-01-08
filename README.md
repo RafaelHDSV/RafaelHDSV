@@ -1,4 +1,13 @@
-## Olá, meu nome é Rafael!
+# 🌍 Olá, meu nome é Rafael!
+
+![](https://komarev.com/ghpvc/?username=RafaelHDSV&color=006bed)
+
+ -   🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+ -   🎓 Estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na <i>Athon Ensino Superior</i>.
+ -   💼 Trabalhando na <strong>AGX Software</strong>, como <i>Desenvolvedor Web Front-end</i>.
+ -   🌱 Aprendendo mais sobre <strong>React</strong>.
+
+## 🚀 Minhas Skills
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -16,34 +25,37 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-<p> 
-  Sou <strong>desenvolvedor frontend</strong> com 4 anos de experiência em desenvolvimento de interfaces e desenvolvimento WEB. Tenho habilidades sólidas em <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong> (JS), com especialização em <strong>React JS</strong>. Apaixonado por criar soluções de Frontend que são não apenas visualmente atraentes, mas também funcionais e intuitivas. Meu foco é transformar ideias em experiências digitais dinâmicas e responsivas na <i>WEB</i>. Estou constantemente atualizando meus conhecimentos para acompanhar as tendências e tecnologias emergentes, garantindo sempre a entrega de projetos de alta qualidade.
-</p>
-
-## Sobre mim
-
--    🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
--    🎓 Estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na <i>Athon Ensino Superior</i>.
--    💼 Trabalhando na <strong>AGX Software</strong>, como <i>Desenvolvedor Web Front-end</i>.
--    🌱 Aprendendo mais sobre <strong>React Js</strong>.
-
 ## ⚙️ GitHub Analytics
 
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelHDSV&theme=dracula&show_icons=true&locale=pt-br" />
+      <img loading='lazy' height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelHDSV&theme=dracula&show_icons=true&locale=pt-br" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHDSV&theme=dracula&show_icons=true&locale=pt-br&layout=compact" />
+      <img loading='lazy' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHDSV&theme=dracula&show_icons=true&locale=pt-br&layout=compact" />
     </td>
   </tr>
 </table>
 
-## Onde me encontrar
+## 💼 Experiência de trabalho
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-vieira-223018210/)
+- Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" alt="AGX Software" src="https://agxsoftware.com/wp-content/uploads/2020/07/AGX-Software-2048x1151.png"/>](https://agxsoftware.com/)
+
+**Desenvolvedor Front-end (Trainee)** \
+[**AGX Software**](https://agxsoftware.com/) \
+Linguagens & Tecnologias: `React`, `Typescript`, `Sass`, `Less`\
+Ramo da empresa: Financeiro
+<br/>
+
+- Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rafael-vieira1720/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+## 🔎 Onde me encontrar
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rafaelhdsv.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-vieira1720/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511947100007)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelvieira1720@gmail.com)
 
