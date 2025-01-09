@@ -27,16 +27,9 @@
 
 ## ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img loading='lazy' height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelHDSV&theme=dracula&show_icons=true&locale=pt-br" />
-    </td>
-    <td>
-      <img loading='lazy' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHDSV&theme=dracula&show_icons=true&locale=pt-br&layout=compact" />
-    </td>
-  </tr>
-</table>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelHDSV&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelHDSV&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelHDSV&theme=dracula&utcOffset=8)
 
 ## 💼 Experiência de trabalho
 
