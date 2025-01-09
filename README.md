@@ -40,8 +40,6 @@
 
 ## 💼 Experiência de trabalho
 
-- Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
 [<img align="left" height="94px" alt="AGX Software" src="https://agxsoftware.com/wp-content/uploads/2020/07/AGX-Software-2048x1151.png"/>](https://agxsoftware.com/)
 
 **Desenvolvedor Front-end (Trainee)** \
@@ -49,8 +47,6 @@
 Linguagens & Tecnologias: `React`, `Typescript`, `Sass`, `Less`\
 Ramo da empresa: Financeiro
 <br/>
-
-- Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rafael-vieira1720/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ## 🔎 Onde me encontrar
 
