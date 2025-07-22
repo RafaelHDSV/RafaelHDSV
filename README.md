@@ -29,7 +29,6 @@
 ## ⚙️ GitHub Analytics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelHDSV&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelHDSV&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelHDSV&theme=dark&utcOffset=-3)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelHDSV&theme=dark)
 
