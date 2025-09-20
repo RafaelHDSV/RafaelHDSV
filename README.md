@@ -4,7 +4,7 @@
 
  -   🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
  -   🎓 Estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na <i>Athon Ensino Superior</i>.
- -   💼 Trabalhando na <strong>AGX Software</strong>, como <i>Desenvolvedor Web Front-end</i>.
+ -   💼 Trabalhando na <strong>AGX Software</strong>, como <i>Desenvolvedor Full Stack</i>.
  -   🌱 Aprendendo mais sobre <strong>React</strong>.
 
 ## 🚀 Minhas Skills
@@ -12,6 +12,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AntDesign](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -36,7 +38,7 @@
 
 [<img align="left" height="94px" alt="AGX Software" src="https://agxsoftware.com/wp-content/uploads/2020/07/AGX-Software-2048x1151.png"/>](https://agxsoftware.com/)
 
-**Desenvolvedor Front-end (Trainee)** \
+**Desenvolvedor Full Stack (Junior I)** \
 [**AGX Software**](https://agxsoftware.com/) \
 Linguagens & Tecnologias: `React`, `Typescript`, `Sass`, `Less`\
 Ramo da empresa: Financeiro
