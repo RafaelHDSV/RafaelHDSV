@@ -36,7 +36,7 @@
 
 [<img align="left" height="94px" alt="AGX Software" src="https://agxsoftware.com/wp-content/uploads/2020/07/AGX-Software-2048x1151.png"/>](https://agxsoftware.com/)
 
-**Desenvolvedor Full Stack (Junior I)** \
+**Desenvolvedor Full Stack (Junior III)** \
 [**AGX Software**](https://agxsoftware.com/) \
 Linguagens & Tecnologias: `React`, `Typescript`, `Sass`, `Less`\
 Ramo da empresa: Financeiro
