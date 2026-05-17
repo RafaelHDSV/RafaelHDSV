@@ -29,8 +29,8 @@ Gosto de ir do layout ao backend com código claro e entrega consistente. Curso 
 ## GitHub
 
 <p align="center">
-  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.shion.dev/api?username=RafaelHDSV&theme=dracula&show_icons=true&hide_border=true" />
-  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RafaelHDSV&theme=dracula&layout=compact&hide_border=true" />
+  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.shion.dev/api?username=RafaelHDSV&theme=dracula&locale=pt-br&show_icons=true&hide_border=true" />
+  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RafaelHDSV&theme=dracula&locale=pt-br&layout=compact&hide_border=true" />
 </p>
 
 ## Onde me encontrar
