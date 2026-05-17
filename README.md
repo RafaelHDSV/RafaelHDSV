@@ -28,16 +28,10 @@ Gosto de ir do layout ao backend com código claro e entrega consistente. Curso 
 
 ## GitHub
 
-<table>
-  <tr>
-    <td>
-      <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=RafaelHDSV&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true" />
-    </td>
-    <td>
-      <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHDSV&theme=dracula&layout=compact&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.shion.dev/api?username=RafaelHDSV&theme=dracula&show_icons=true&hide_border=true" />
+  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RafaelHDSV&theme=dracula&layout=compact&hide_border=true" />
+</p>
 
 ## Onde me encontrar
 
@@ -46,4 +40,3 @@ Gosto de ir do layout ao backend com código claro e entrega consistente. Curso 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511947100007)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelvieira1720@gmail.com)
 [![VS Code Marketplace](https://img.shields.io/badge/VS_Code_Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/publishers/RafaelVieira1720)
-https://open-vsx.org/namespace/RafaelVieira1720
