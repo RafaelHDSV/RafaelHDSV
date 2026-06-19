@@ -21,7 +21,7 @@ Gosto de ir do layout ao backend com código claro e entrega consistente. Curso 
 
 [<img align="left" height="80" alt="AGX Software" src="https://agxsoftware.com/wp-content/uploads/2020/07/AGX-Software-2048x1151.png"/>](https://agxsoftware.com/)
 
-**Desenvolvedor Full Stack (Junior III) + Líder** · [AGX Software](https://agxsoftware.com/)  
+**Desenvolvedor Full Stack (Pleno I) + Líder** · [AGX Software](https://agxsoftware.com/)  
 `React` · `TypeScript` · `Sass` · `Less` · setor financeiro
 
 <br clear="left"/>
