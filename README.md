@@ -31,6 +31,9 @@ Gosto de ir do layout ao backend com código claro e entrega consistente. Curso 
 <p align="center">
   <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.shion.dev/api?username=RafaelHDSV&theme=dracula&locale=pt-br&show_icons=true&hide_border=true&cache_seconds=21600" />
   <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RafaelHDSV&theme=dracula&locale=pt-br&layout=compact&hide_border=true&cache_seconds=21600" />
+  <a href="https://vieira-analytics.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://personal-vieira-analytics.onrender.com/v1/card/overview?period=all&theme=dark&viz=donut&hide=avg" alt="Vieira Analytics" width="495" loading="lazy" />
+  </a>
 </p>
 
 ## Onde me encontrar
