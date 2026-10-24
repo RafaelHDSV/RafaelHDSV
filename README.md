@@ -51,6 +51,7 @@ Gosto de ir do layout ao backend com código claro e entrega consistente. Curso 
 [![Open VSX](https://img.shields.io/badge/Open_VSX-c160ef?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjQgNSAxMDAgODUiPjxwYXRoIGQ9Ik0zMCA0NC4yTDUyLjYgNUg3LjN6TTQuNiA4OC41aDQ1LjNMMjcuMiA0OS40em01MSAwbDIyLjYgMzkuMiAyMi42LTM5LjJ6IiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTUyLjYgNUwzMCA0NC4yaDQ1LjJ6TTI3LjIgNDkuNGwyMi43IDM5LjEgMjIuNi0zOS4xem01MSAwTDU1LjYgODguNWg0NS4yeiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjg1Ii8+PC9zdmc+)](https://open-vsx.org/namespace/RafaelVieira1720)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~rafaelhdsv)
 <!-- <a href="https://agentskillsfinder.com/pt"><img src="assets/agent-skills-finder-badge.png" alt="Agent Skills Finder" height="28"></a> -->
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/RafaelHDSV/badge.svg)](https://hub.xerj.org/contributors/RafaelHDSV)
 
 ## Apoie
 
