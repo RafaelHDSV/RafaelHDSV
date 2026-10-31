@@ -40,7 +40,7 @@ Gosto de ir do layout ao backend com código claro e entrega consistente. Curso 
 
 ### Redes e contato
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafael.getvieira.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://getvieira.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkxpbmtlZEluIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjEuMDYgNDguNzNoMTguMTFWMTA3SDIxLjA2em05LjA2LTI5YTEwLjUgMTAuNSAwIDEgMS0xMC41IDEwLjQ5IDEwLjUgMTAuNSAwIDAgMSAxMC41LTEwLjQ5TTUwLjUzIDQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1djMySDg4Ljg5Vjc4LjY1YzAtNi43NS0uMTItMTUuNDQtOS40MS0xNS40NHMtMTAuODcgNy4zNi0xMC44NyAxNVYxMDdINTAuNTN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/rafael-vieira1720/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511947100007)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelvieira1720@gmail.com)
